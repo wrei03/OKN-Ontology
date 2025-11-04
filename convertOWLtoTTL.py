@@ -7,3 +7,5 @@ g.parse("substances_ontology.owl", format="xml")
 # Serialize the graph into Turtle format and save it to a file
 g.serialize(destination="substancesOntology.ttl", format="turtle")
 print(f"TTL created and saved")
+
+#editing this for the sake of a class (CS 444)
